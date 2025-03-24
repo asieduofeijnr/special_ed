@@ -1,7 +1,9 @@
 import streamlit as st
 
 # Solomons test 
-st.write("Hello, world! Solomons test")
+st.header("Foster and Solomons First Project")
+
+st.write("Hello, world!")
 st.write("Ceated my branch for testing")
 
 
