@@ -1,5 +1,5 @@
 import streamlit as st
-from bigquery_data import BigqueryData
+from components.bigquery_data import BigqueryData
 
 
 st.set_page_config(page_title="Special_Ed Portal", layout="wide")
